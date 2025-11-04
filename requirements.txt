@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-core
+langchain-aws
+streamlit
+python-dotenv
+ollama
+langsmith
+textblob
